@@ -54,9 +54,12 @@ export default {
   data() {
     return {
       toBePreloaded: [
-        "https://res.cloudinary.com/di3otod6k/image/upload/v1718562478/header_lmeux7.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718619896/bio_fp0glg.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718618453/header_puxqam.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718558494/hero_nwcawo.jpg",
-        "https://res.cloudinary.com/di3otod6k/image/upload/v1718620677/Nicole_Balsamo_Photography-55_web_fojx4e.avif",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718557539/profile_gz2mqx.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718557920/modelling_aolqc9.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718621582/quote_pi633a.webp",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718642886/further_work_rtk3lp.png",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718643149/work_t7vrck.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718644188/work_new_earth_yk7uop.jpg",
@@ -64,12 +67,12 @@ export default {
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718644153/work_new_earth_hvr27g.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718720067/windsor_g5joqy.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718722752/soul_honey_a55uav.jpg",
-        "https://res.cloudinary.com/di3otod6k/image/upload/v1718724463/impress_2_td19mx.jpg",
-        "https://res.cloudinary.com/di3otod6k/image/upload/v1718724464/imPRESS_atzifp.png",
-        "https://res.cloudinary.com/di3otod6k/image/upload/v1718724463/impress_2_td19mx.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718724655/impress_2_pre4jf.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718804267/harper_willow_dsv40e.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718805060/awards_cid7cm.jpg",
-        "https://res.cloudinary.com/di3otod6k/image/upload/v1718805060/awards_cid7cm.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718805059/awards_2_fzdddd.webp",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718809327/work_quote_cqvz98.jpg",
+
       ],
       otherstoPreload: [
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718822157/footer_q7wusr.jpg",

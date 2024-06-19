@@ -302,7 +302,7 @@
                   </div>
                   <div class="image-2">
                     <img
-                      src="https://res.cloudinary.com/di3otod6k/image/upload/v1718724655/impress_2_pre4jf.jpg"
+                      src="https://res.cloudinary.com/dmwfd0zhh/image/upload/q_auto,f_auto/v1621524466/Korty/kortybbn2_dixrhc.jpg"
                       alt=""
                     />
                     <p>
