@@ -67,15 +67,20 @@ export default {
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718644153/work_new_earth_hvr27g.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718720067/windsor_g5joqy.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718722752/soul_honey_a55uav.jpg",
-        "https://res.cloudinary.com/di3otod6k/image/upload/v1718724655/impress_2_pre4jf.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718724464/imPRESS_atzifp.png",
+        "https://res.cloudinary.com/dmwfd0zhh/image/upload/q_auto,f_auto/v1621524466/Korty/kortybbn2_dixrhc.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718804267/harper_willow_dsv40e.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718805060/awards_cid7cm.jpg",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718805059/awards_2_fzdddd.webp",
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718809327/work_quote_cqvz98.jpg",
-
       ],
-      otherstoPreload: [
+      othersToPreload: [
         "https://res.cloudinary.com/di3otod6k/image/upload/v1718822157/footer_q7wusr.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718651642/21_iqwvwa.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718651908/23_m4ez3h.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718651914/24_av4qvx.jpg",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718561909/desk-setup_xz1h6d.avif",
+        "https://res.cloudinary.com/di3otod6k/image/upload/v1718652209/32_jdrsil.avif",
       ],
       percentageLoaded: 0,
       isLoaded: false,
@@ -189,7 +194,7 @@ export default {
       );
     },
     async preloadOthers() {
-      this.otherstoPreload.map(async image => {
+      this.othersToPreload.map(async image => {
         await preloadImage(image);
       });
     },
