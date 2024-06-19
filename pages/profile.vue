@@ -175,11 +175,11 @@
               </div>
             </div>
             <div class="work__companies">
-              <div class="nike-gt">
-                <div class="nike">
-                  <div class="nike__left">
+              <div class="conteam-newearth">
+                <div class="conteam">
+                  <div class="conteam__left">
                     <h2>CONTEAM</h2>
-                    <div class="nike__image1">
+                    <div class="conteam__image1">
                       <img
                         src="https://res.cloudinary.com/di3otod6k/image/upload/v1718644188/work_new_earth_yk7uop.jpg"
                         alt="Conteam clothing"
@@ -190,8 +190,8 @@
                       href="https://www.instagram.com/newearth/?hl=en"
                     />
                   </div>
-                  <div class="nike__right">
-                    <div class="nike__image2">
+                  <div class="conteam__right">
+                    <div class="conteam__image2">
                       <img
                         src="https://res.cloudinary.com/di3otod6k/image/upload/v1718643927/work_conteam_u2z2iu.jpg"
                         alt="Conteam clothing"
@@ -204,15 +204,15 @@
                     </p>
                   </div>
                 </div>
-                <div class="gt">
+                <div class="newearth">
                   <div>
-                    <div class="gt__image">
+                    <div class="newearth__image">
                       <img
                         src="https://res.cloudinary.com/di3otod6k/image/upload/v1718644153/work_new_earth_hvr27g.jpg"
                         alt="New Earth logo"
                       />
                     </div>
-                    <div class="gt__desc">
+                    <div class="newearth__desc">
                       <h3>NEW EARTH</h3>
                       <p>Rebranded Conteam to New Earth.</p>
                     </div>
@@ -237,8 +237,8 @@
                 <h1>WINDSOR</h1>
               </div>
 
-              <div class="soul_honey-ga">
-                <div class="googlearts">
+              <div class="music-instruments-singing-ga">
+                <div class="music-instruments-singing">
                   <h3>MUSIC INSTRUMENTS <br />& SINGING</h3>
                   <p>
                     Released her own covers on some songs, as early as 2014 on her
@@ -633,7 +633,7 @@ export default {
     this.marqueeAnimation();
     this.heroImageAnimation();
     this.worksAnimation(worksRef);
-    this.googleArtsAnimation();
+    this.musicInstrumentsSingingAnimation();
 
     this.$nuxt.$emit("update-locomotive");
   },
@@ -692,7 +692,7 @@ export default {
         xPercent: -50
       });
     },
-    googleArtsAnimation() {
+    musicInstrumentsSingingAnimation() {
       gsap.to(".music-instruments-singing span", {
         scrollTrigger: {
           trigger: ".music-instruments-singing",
