@@ -10,7 +10,7 @@ A fan-made folio site by me for the popular and inspirational YouTuber and Insta
 
 ![image](https://github.com/josephchay/jessica-conte-folio/assets/136827046/8cead54c-2a44-4a4f-9798-04acab414722)
 
-[![Live-Site](https://img.shields.io/website?url=https://jessica-conte.netlify.app/&style=for-the-badge)](https://jessica-conte.netlify.app/)
+[![Live-Site](https://img.shields.io/website?url=https://jess-conte.netlify.app/&style=for-the-badge)](https://jess-conte.netlify.app/)
 
 ## Tech Stack
 
