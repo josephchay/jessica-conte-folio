@@ -28,7 +28,7 @@
                     Joseph
                   </a
                 >
-                - Development 2024 Rebuild
+                - Development 2024 Build
               </p>
             <p>
               <a
@@ -39,7 +39,7 @@
                   Joseph
                 </a
               >
-              - Development and Art Direction
+              - Art Direction
             </p>
             <p>
               <a
@@ -50,7 +50,7 @@
                   Joseph
                 </a
               >
-              - UI Design and Art Direction
+              - UI Design
             </p>
             <p>
               <a
