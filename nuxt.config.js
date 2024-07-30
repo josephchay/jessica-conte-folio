@@ -53,6 +53,9 @@ export default {
     manifest: {
       lang: 'en',
     },
+    icon: {
+      source: '/favicon.ico',
+    },
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
