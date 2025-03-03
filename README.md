@@ -4,7 +4,7 @@
 
 ## About
 
-A fan-made folio site by me for the popular and inspirational YouTuber and Instagrammer, Jessica Conte.
+Folio site for the popular and inspirational YouTuber and Instagrammer, Jessica Conte.
 
 ## Demo
 
